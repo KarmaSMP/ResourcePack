@@ -1,0 +1,25 @@
+{
+    "providers": [
+		{
+			"type":"bitmap",
+			"file":"font/dev.png",
+			"ascent":7,
+			"height":7,
+			"chars":["\uD001"]
+		},
+		{
+			"type":"bitmap",
+			"file":"font/admin.png",
+			"ascent":7,
+			"height":7,
+			"chars":["\uD002"]
+		},
+		{
+			"type":"bitmap",
+			"file":"font/spectator.png",
+			"ascent":7,
+			"height":7,
+			"chars":["\uD003"]
+		}
+    ]
+}
