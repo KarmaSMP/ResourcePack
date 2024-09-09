@@ -1,0 +1,156 @@
+{
+		"mcc.music.overtime_intro": {
+				"sounds": [
+					{
+						"name": "mcc/music/overtime_intro",
+						"stream": true
+					}
+				]
+		},
+		"mcc.music.overtime": {
+				"sounds": [
+					{
+						"name": "mcc/music/overtime",
+						"stream": true
+					}
+				]
+		},
+		"mcc.music.game_over": {
+				"sounds": [
+					{
+						"name": "mcc/music/game_over",
+						"stream": true
+					}
+				]
+		},
+		"mcc.music.game_starting": {
+				"sounds": [
+					{
+						"name": "mcc/music/game_starting",
+						"stream": true
+					}
+				]
+		},
+		"mcc.music.round_end": {
+				"sounds": [
+					{
+						"name": "mcc/music/round_end",
+						"stream": true
+					}
+				]
+		},
+		"mcc.game.123": {
+				"sounds": [
+					{
+						"name": "mcc/game/123"
+					}
+				]
+		},
+		"mcc.game.go": {
+				"sounds": [
+					{
+						"name": "mcc/game/go"
+					}
+				]
+		},
+		"mcc.game.map_alert": {
+				"sounds": [
+					{
+						"name": "mcc/game/map_alert"
+					}
+				]
+		},
+		"mcc.game.map_update": {
+				"sounds": [
+					{
+						"name": "mcc/game/map_update"
+					}
+				]
+		},
+		"mcc.game.objective_complete": {
+				"sounds": [
+					{
+						"name": "mcc/game/objective_complete"
+					}
+				]
+		},
+		"mcc.game.small_objective_complete": {
+				"sounds": [
+					{
+						"name": "mcc/game/small_objective_complete"
+					}
+				]
+		},
+		"mcc.game.roundend": {
+				"sounds": [
+					{
+						"name": "mcc/game/roundend"
+					}
+				]
+		},
+		"mcc.game.score.acquired": {
+				"sounds": [
+					{
+						"name": "mcc/game/score.acquired"
+					}
+				]
+		},
+		"mcc.game.score.bigacquired": {
+				"sounds": [
+					{
+						"name": "mcc/game/score.bigacquired"
+					}
+				]
+		},
+		"mcc.game.score.small_coins": {
+				"sounds": [
+					{
+						"name": "mcc/game/score.small_coins"
+					}
+				]
+		},
+		"mcc.game.score.big_coins": {
+				"sounds": [
+					{
+						"name": "mcc/game/score.big_coins"
+					}
+				]
+		},
+		"mcc.game.team_eliminated": {
+				"sounds": [
+					{
+						"name": "mcc/game/team_eliminated"
+					}
+				]
+		},
+		"mcc.game.timer.tick_high": {
+				"sounds": [
+					{
+						"name": "mcc/game/timer.tick_high"
+					}
+				]
+		},
+		"mcc.game.timer.tick_normal": {
+				"sounds": [
+					{
+						"name": "mcc/game/timer.tick_normal"
+					}
+				]
+		},
+		"event.downtime.loop": {
+				"sounds": [
+					{
+						"name": "event/downtime.loop",
+						"stream": true
+					}
+				]
+		},
+		"lobby.waiting": {
+				"sounds": [
+					{
+						"name": "lobby/lobby.waiting",
+						"stream": true
+					}
+				]
+		}
+}
